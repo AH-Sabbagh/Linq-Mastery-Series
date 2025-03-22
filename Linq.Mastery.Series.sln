@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Linq.Mastery.Series.Data", "Linq.Mastery.Series.Data\Linq.Mastery.Series.Data.csproj", "{DCA72A9D-915B-40DB-A7FD-2BC63DA0E585}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Linq.Mastery.Series.Cmd", "Linq.Mastery.Series.Cmd\Linq.Mastery.Series.Cmd.csproj", "{BAB2B092-B73F-450C-9A31-6A3E9194F6AD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DCA72A9D-915B-40DB-A7FD-2BC63DA0E585}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DCA72A9D-915B-40DB-A7FD-2BC63DA0E585}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DCA72A9D-915B-40DB-A7FD-2BC63DA0E585}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DCA72A9D-915B-40DB-A7FD-2BC63DA0E585}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BAB2B092-B73F-450C-9A31-6A3E9194F6AD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BAB2B092-B73F-450C-9A31-6A3E9194F6AD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BAB2B092-B73F-450C-9A31-6A3E9194F6AD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BAB2B092-B73F-450C-9A31-6A3E9194F6AD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {45BFD691-B431-4F5C-B7DA-CAD201D1D246}
+	EndGlobalSection
+EndGlobal
