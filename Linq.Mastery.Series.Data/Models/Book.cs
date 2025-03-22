@@ -1,4 +1,4 @@
-﻿namespace Linq.Mastery.Series.Data.Modelsl;
+﻿namespace Linq.Mastery.Series.Data.Models;
 public class Book
 {
     public required Guid BookId { get; init; }
