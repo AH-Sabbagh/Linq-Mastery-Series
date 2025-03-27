@@ -2,7 +2,7 @@
 
 namespace Linq.Mastery.Series.Cmd;
 
-public abstract class QueryRunner
+public abstract class QueryExecutor
 {
     protected readonly BookRepository Repository = new();
 
