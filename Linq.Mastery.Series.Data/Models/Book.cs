@@ -6,7 +6,6 @@ public class Book
     public required DateOnly PublishDate { get; init; }
     public int Edition { get; init; }
     public List<Person> Authors { get; set; } = new List<Person>();
-    public List<Person> Editors { get; set; } = new List<Person>();
 
     public override string ToString()
     {
