@@ -1,6 +1,4 @@
-﻿using Linq.Mastery.Series.Data.Repositories;
-
-namespace Linq.Mastery.Series.Cmd;
+﻿namespace Linq.Mastery.Series.Cmd;
 
 public abstract class QueryExecutor
 {
